@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Newster</string>
+    <string name="action_settings">Refresh</string>
+    <string name="count">0</string>
+
+    <string-array name="category_array">
+        <item>Top Stories</item>
+        <item>Pakistan</item>
+        <item>Entertainment</item>
+        <item>Sports</item>
+        <item>Health</item>
+        <item>Science</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+</resources>
